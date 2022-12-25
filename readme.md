@@ -41,4 +41,4 @@ eta_dd is eta value when forward propagation is used
 
 first_eta is text file used to store  z3 eta values which is later consumed to convert it into dictionary
 
-random text for testing git hub
+random text for testing git hub part 2
